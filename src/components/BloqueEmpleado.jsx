@@ -9,9 +9,8 @@ const BloqueEmpleado = () => {
                     </img>
                 </Col>
                 <Col sm={9} md={8}>
-                    <h4> </h4>
-                    <h5> </h5>
-                    <span className="badge badge-info"></span>
+                    <h4 className="fs-5"> Nombre</h4>
+                    <p className="lead fs-6"> Puesto <span className="ms-2 badge badge-info text-bg-info">Departamento</span></p>
                 </Col>
             </Row>
         </ListGroup.Item>

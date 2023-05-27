@@ -3,8 +3,8 @@ import BloqueEmpleado from "./BloqueEmpleado";
 
 const ListaEmpleados = () => {
     return(
-        <ListGroup>
-
+        <ListGroup className="my-3">
+            <BloqueEmpleado className="my-1"></BloqueEmpleado>
         </ListGroup>
     )
 }
