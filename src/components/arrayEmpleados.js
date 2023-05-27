@@ -11,7 +11,7 @@ export let empleados = [
         fullName: "Astryd Vallés", 
         title: "CMO", 
         department: "Marketing", 
-        pic: "https://images.pexels.com/photos/4450122/pexels-photo-4450122.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" 
+        pic: "https://images.pexels.com/photos/3807768/pexels-photo-3807768.jpeg" 
     },
     { 
         id: 3, 
